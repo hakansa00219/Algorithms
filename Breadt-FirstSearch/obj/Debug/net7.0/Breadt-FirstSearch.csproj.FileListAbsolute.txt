@@ -1,0 +1,15 @@
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\bin\Debug\net7.0\Breadt-FirstSearch.exe
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\bin\Debug\net7.0\Breadt-FirstSearch.deps.json
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\bin\Debug\net7.0\Breadt-FirstSearch.runtimeconfig.json
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\bin\Debug\net7.0\Breadt-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\bin\Debug\net7.0\Breadt-FirstSearch.pdb
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.csproj.AssemblyReference.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.AssemblyInfoInputs.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.AssemblyInfo.cs
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\refint\Breadt-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.pdb
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\Breadt-FirstSearch.genruntimeconfig.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Breadt-FirstSearch\obj\Debug\net7.0\ref\Breadt-FirstSearch.dll

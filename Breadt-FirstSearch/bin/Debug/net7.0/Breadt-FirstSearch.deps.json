@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Breadt-FirstSearch/1.0.0": {
+        "runtime": {
+          "Breadt-FirstSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Breadt-FirstSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
