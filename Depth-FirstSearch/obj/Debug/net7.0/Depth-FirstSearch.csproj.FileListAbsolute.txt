@@ -1,0 +1,15 @@
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\bin\Debug\net7.0\Depth-FirstSearch.exe
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\bin\Debug\net7.0\Depth-FirstSearch.deps.json
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\bin\Debug\net7.0\Depth-FirstSearch.runtimeconfig.json
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\bin\Debug\net7.0\Depth-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\bin\Debug\net7.0\Depth-FirstSearch.pdb
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.csproj.AssemblyReference.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.AssemblyInfoInputs.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.AssemblyInfo.cs
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\refint\Depth-FirstSearch.dll
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.pdb
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\Depth-FirstSearch.genruntimeconfig.cache
+C:\Users\66996\OneDrive\Desktop\RiderProjects\Algorithms\Depth-FirstSearch\obj\Debug\net7.0\ref\Depth-FirstSearch.dll
